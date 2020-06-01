@@ -1,5 +1,5 @@
 # App-Like-Twitter
-This is a flask application. It was made by python and flask framework
+<h2>This is a flask application. It was made by python and flask framework</h2>
 <img src="twitterblog/static/img/first.png"/>
 <img src="twitterblog/static/img/2.png"/>
 <img src="twitterblog/static/img/3.png"/>
