@@ -1,6 +1,6 @@
 # App-Like-Twitter
 This is a flask application. It was made by python and flask framework
-<img src="twitterblog/static/img/1.png"/>
+<img src="twitterblog/static/img/1(1).png"/>
 <img src="twitterblog/static/img/2.png"/>
 <img src="twitterblog/static/img/3.png"/>
 <img src="twitterblog/static/img/4.png"/>
